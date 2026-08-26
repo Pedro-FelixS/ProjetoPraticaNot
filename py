@@ -1,0 +1,1 @@
+Print("Deus me ajude a passar de ano e encontrar a mulher certa para minha vida, obrigado por tudo Senhor!")
