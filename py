@@ -1,1 +1,2 @@
 Print("Deus me ajude a passar de ano e encontrar a mulher certa para minha vida, obrigado por tudo Senhor!")
+Print("A ti confio todos os meus planos e toda a minha fè, o Senhor é meu Pastor e nada me faltarás")
